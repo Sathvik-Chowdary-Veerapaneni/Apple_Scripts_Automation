@@ -23,7 +23,7 @@ This AppleScript is designed to automate the process of duplicating a template s
 
 2. **Set up the AppleScript**: Open the AppleScript Editor on your Mac and paste the provided script into a new document.
 
-3. **Customize the script**: Replace `"Testing_June_2024"` with the name of your Numbers spreadsheet and `"June 1, 2024"` with the name of your template sheet. Set the `numDays` variable to the number of days in the month.
+3. **Customize the script**: Replace `"June_2024"` with the name of your Numbers spreadsheet and `"June 1, 2024"` with the name of your template sheet. Set the `numDays` variable to the number of days in the month.
 
 4. **Run the script**: Click the Run button in the AppleScript Editor to run the script. The script will create a new sheet for each day of the month, duplicating the contents of the template sheet.
 
